@@ -1,0 +1,77 @@
+<!DOCTYPE HTML>
+ <html lang="en">
+     <head>
+         <title>Test.html</title>
+         <style>
+             p { color: red; }
+             ol { display: flex; }
+             li { margin: 20px; }
+
+         </style>
+     </head>
+     <body>
+        <h1 style="text-align: center;">My HTML Notes!</h1>
+        <ol>
+         <li><P>
+            <strong>Marks</strong> <em>is about a Tags it start & end with <strong>angle braket</strong>.</em><br>
+                Examples
+             "strong , em , br , p , mark , sub , etc.. "<br>
+             having effect on the text and it's one of advintage of HTML . 
+            </P>
+         <hr>
+        
+         <li><p>
+             <mark>Hi there</mark><br>
+             <sub>Hi there</sub>  <sup>Hi there</sup> <br>
+             Example<br>
+             <mark>x<sup>2</sup>+x+2=0</mark><br>
+             <mark>H<sub>2</sub>+O<sub>2</sub>=H<sub>2</sub>O</mark>
+            </p>
+         <br>
+         <li><div>
+             <p>
+                "h1 , h2 , h3 , ...., h6" <em>it's a headlines size</em>
+                 <h3> As</h3> 
+                 <ul>
+                     <li><h1>h1</h1> 
+                     <li><h2>h2</h2> 
+                     <li><h3>h3</h3> 
+                     <li><h4>h4</h4> 
+                      <li><h5>h5</h5>
+                     <li><h6>h6</h6>
+                 </ul>
+         
+            </div>
+         <br>
+         <li><div>
+             <h2>Refrances</h2>
+                  <a href="https://github.com/">
+                     <img src="https://i.pinimg.com/564x/42/80/3b/42803be77cb01d8a75cc5952a8ee565d.jpg"
+                          alt="github Logo">
+                      </a>
+                   <a href="https://developer.mozilla.org/">
+                       <img src="https://avatars.githubusercontent.com/u/7565578?s=200&v=4"
+                            alt="MDN Web Docs Logo">
+                        </a>
+             <ul>
+                 <li> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element">
+                      <h3><strong>HTML Elements Reference</strong></h3>
+                     </a>
+                 <li> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements">
+                     <h4>HTML "block-level" elements </h4>
+                      </a>
+                 <li> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Inline_elements%20">
+                      <h4>HTML "inline" elements </h4>
+                     </a>
+             </ul>
+             
+            </div>
+        </ol>
+        <p>
+         <a href="https://validator.w3.org/"> <h2> Markup Validation Service </h2>
+            <strong>It's nessesary to chek your code after finshing it</strong>
+          </a>
+        </p>
+     </body>
+ </html>
+ <style>
